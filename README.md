@@ -20,7 +20,14 @@ Trabajando en el taller, el proyecto de prueba nos quedó como se indica en la i
 
 ![Imagen](OtrosRecursos/status.jpeg)
 
-En el archivo utilidad, tenemos algunos links que de información que puede sernos de utilidad en nuestro proyecto.
+
+Luego de incluir los últimos cambios, ppt y anotaciones, el repo nos queda como en la siguiente imagen:
+
+![Imagen](OtrosRecursos/statusFinal.jpeg)
+
+
+Revisa los archivos que están dentro de la carpeta **OtrosRecursos/** para que veas en detalle lo que vimos en el taller
+
 
 ## Archivo de configuración de Meld
 
