@@ -9,7 +9,7 @@ Para clonar el repositorio, ejecutar el comando clone:
 ```
 $ git clone https://github.com/panterozo/cuatrolibertades-1dic.git
 ```
-Ya que el repositorio tiene la presentación dentro de la carpeta OtrosRecursos/, el repositorio nos queda con 23Mb 
+Ya que el repositorio tiene la presentación dentro de la carpeta **OtrosRecursos/**, el repositorio nos queda con 29Mb 
 
 ![imagen](OtrosRecursos/23MB.png)
 
